@@ -1,0 +1,6 @@
+m1=float(input("ingresar masa1: "))
+m2=float(input("ingresae masa2: "))
+a=float(input("Ingresar aceleracion: "))
+print("fuerza 1 es: ",m1*a)
+print("fuerza 2 es: ",m2*a)
+print("fuerza total es: ",((m1*a)+(m2*a)))

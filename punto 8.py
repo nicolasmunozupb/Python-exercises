@@ -1,0 +1,7 @@
+n1=float(input("ingresar nota 1: "))
+n2=float(input("ingrese nota 2: "))
+n3=float(input("ingresar nota 3: "))
+n4=float(input("ingrese nota 4: "))
+n5=float(input("ingresar nota 5: "))
+prom=((n1*0.15)+(n2*0.2)+(n4*0.3)+(n3*0.15)+(n5*0.2))
+print("su promedio es: ",prom)
